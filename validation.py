@@ -40,6 +40,6 @@ def print_tenth_item(top_ten):
 #  its a index error
 # 2.2 TODO: Once you are done, uncomment the two lines below to ensure that your code works as expected
 
-print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
-print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
+# print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
+# print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
 # done
