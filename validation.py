@@ -33,6 +33,7 @@ def print_tenth_item(top_ten):
         print(f'{top_ten[9]}')
     except IndexError:
         print('N/A')
+print_tenth_item("top_ten")
 # NOTE: What type of error does python throw if you try to index into a list past the number of items in it?
 # Test it out (or google it!) to see which one. Specifically catch that exception in your code.
 
